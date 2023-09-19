@@ -29,8 +29,6 @@
      Tijera: 2,
     }
 
-
-
 function change(){
     const randomNumber = getRandomNumber (10);
     if(randomNumber<= 3){
@@ -44,14 +42,15 @@ function change(){
     }
 }
 
-
+function result (user, computer){
+    
+}
 
 
 
 
 function handleClick(){
-
- 
+    change();
 }
 
 
